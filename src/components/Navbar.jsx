@@ -4,7 +4,7 @@ import { TbWorld } from "react-icons/tb";
 const Navbar = () => {
   return (
     <nav className="h-16 w-full flex items-center justify-center bg-black text-white">
-      <div className="w-11/12 flex justify-between">
+      <div className="w-[90%] flex justify-between">
         <div className="flex items-center gap-8">
           <h3 className="text-2xl">Uber</h3>
 
